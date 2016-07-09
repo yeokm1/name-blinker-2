@@ -5,4 +5,5 @@
   (lib (name lir2450)(type KiCad)(uri "$(KIPRJMOD)/libraries/lir2450.pretty")(options "")(descr ""))
   (lib (name dpdt-smd)(type KiCad)(uri "$(KIPRJMOD)/libraries/dpdt-smd.pretty")(options "")(descr ""))
   (lib (name tps63051)(type KiCad)(uri "$(KIPRJMOD)/libraries/tps63051.pretty")(options "")(descr ""))
+  (lib (name lps3015)(type KiCad)(uri "$(KIPRJMOD)/libraries/lps3015.pretty")(options "")(descr ""))
 )

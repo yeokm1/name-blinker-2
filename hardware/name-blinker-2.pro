@@ -1,4 +1,4 @@
-update=07/05/16 23:01:10
+update=07/09/16 10:17:35
 version=1
 last_client=kicad
 [pcbnew]
@@ -62,3 +62,4 @@ LibName30=libraries/mounthole
 LibName31=libraries/mounting-hole
 LibName32=libraries/BMD-300
 LibName33=libraries/tps63051
+LibName34=libraries/lps3015
